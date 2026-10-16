@@ -16,7 +16,7 @@ This project focuses on analyzing store sales data using Power BI to evaluate ov
 * **Adam mohamed Abd Elaziz** - Database Management & Querying (SQL)
 * **Youssef Emad Mohamed** - Exploratory Data Analysis & Scripting (Python)
 * **Abdullah mahmoud mohamed** - Advanced Reporting & Insights (Tableau)
-*
+
 ## Project Supervisor
 * **Supervisor name:[Fatimah Farouk]**
 
