@@ -10,6 +10,13 @@ This project focuses on analyzing store sales data using Power BI to evaluate ov
 * **[Mohamed samy nagdy]**
 * **[Abdullah mahmoud mohamed]**
 
+## Team Members & Responsibilities
+* **Jana Hisham zaghlool** - Data Cleansing & Preparation (Microsoft Excel)
+* **Mohamed samy nagdy** - Data Visualization & Dashboard Design (Power BI)
+* **Adam mohamed Abd Elaziz** - Database Management & Querying (SQL)
+* **Youssef Emad Mohamed** - Exploratory Data Analysis & Scripting (Python)
+* **Abdullah mahmoud mohamed** - Advanced Reporting & Insights (Tableau)
+*
 ## Project Supervisor
 * **Supervisor name:[Fatimah Farouk]**
 
